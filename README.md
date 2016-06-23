@@ -5,7 +5,7 @@
 
 為了能夠更客觀進行各組與各學員的期末自評, 特別以組為單位, 各組員為內容建構成員, 利用四堂課程的時間, 在各組新建的 Github 倉儲中完成此一專案報告.
 
-40323216 GIthub Page:http://python-40323216.rhcloud.com/static/blog/category/bg7.html
+40323216 GIthub Page :http://python-40323216.rhcloud.com/static/blog/category/bg7.html
 
 
 
