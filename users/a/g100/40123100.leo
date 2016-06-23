@@ -23,6 +23,9 @@
 <v t="amd.20160501215942.1" a="E"><vh>@path content/a/g100</vh>
 <v t="amd.20160501215720.1"><vh>@edit 40323199-20160619.md</vh></v>
 </v>
+<v t="leo.20160623101600.1" a="E"><vh>@path content/b/g7</vh>
+<v t="leo.20160623101600.3"><vh>@edit 40323216-20160623.md</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -473,5 +476,6 @@ def send_blog():
   return app.send_static_file('blog/index.html')
 
 </t>
+<t tx="leo.20160623101600.1"></t>
 </tnodes>
 </leo_file>

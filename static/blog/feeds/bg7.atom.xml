@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/ag100.atom.xml" rel="self"></link><id>./</id><updated>2016-06-23T09:27:07+08:00</updated><entry><title>協同產品設計實習期末考週專案報告</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-23T09:27:07+08:00</updated><author><name>40323199</name></author><id>tag:,2016-06-23:./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;p&gt;為了能夠更客觀進行各組與各學員的期末自評, 特別以組為單位, 各組員為內容建構成員, 利用四堂課程的時間, 在各組新建的 Github 倉儲中完成此一專案報告.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg7.atom.xml" rel="self"></link><id>./</id><updated>2016-06-23T10:18:01+08:00</updated><entry><title>40323216協同產品設計實習期末考週專案報告</title><link href="./40323216xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-23T10:18:01+08:00</updated><author><name>40323216</name></author><id>tag:,2016-06-23:./40323216xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
 
 
+&lt;p&gt;期末心得:
+最後一天要的作業雖然看起來很簡單 其實要會一些東西做得出來的 從家為協同者到會修改路徑及畫圖 要配合別人也不太容易 &lt;/p&gt;
+&lt;p&gt;要能畫出2D的圖 並用程式控制變數去讓看圖的人可以改尺寸挺困難的&lt;/p&gt;
+&lt;p&gt;on shape 利用別人製作的畫齒輪程式去畫 還需要調整間係才能咬合&lt;/p&gt;
+&lt;p&gt;個人報告:http://python-40323216.rhcloud.com/static/blog/category/bg7.html&lt;/p&gt;
 &lt;p&gt;基本專案建置流程:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -26,4 +31,4 @@
 &lt;p&gt;最最後, 請各組依序完成上述工作任務後, 將各組與各學員所完成的網站連結放入 &lt;a href="https://github.com/2015fallhw/cdw11/wiki"&gt;https://github.com/2015fallhw/cdw11/wiki&lt;/a&gt; 各組員的對應資料區中, 以作為期末成績評分參考.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;祝大家 2016 Summer 假期愉快!&lt;/p&gt;</summary><category term="40323199"></category><category term="cdw18"></category></entry></feed>
+&lt;p&gt;祝大家 2016 Summer 假期愉快!&lt;/p&gt;</summary><category term="40323216"></category><category term="cdw18"></category></entry></feed>
