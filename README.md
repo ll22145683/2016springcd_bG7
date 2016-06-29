@@ -7,6 +7,8 @@
 
 40323212 GIthub Page :http://cdw11bg7-40323212.rhcloud.com/static/blog/category/bg7.html
 
+40323212 Gitio gh-pages期末報告: https://ll22145683.github.io/2016springcd_bG7/static/blog/40323212xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html
+
 40323216 GIthub Page :http://python-40323216.rhcloud.com/static/blog/category/bg7.html
 
 40323216 Gitio gh-pages期末報告: https://ll22145683.github.io/2016springcd_bG7/static/blog/40323216xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html
