@@ -5,6 +5,8 @@
 
 為了能夠更客觀進行各組與各學員的期末自評, 特別以組為單位, 各組員為內容建構成員, 利用四堂課程的時間, 在各組新建的 Github 倉儲中完成此一專案報告.
 
+40323212 GIthub Page :http://cdw11bg7-40323212.rhcloud.com/static/blog/category/bg7.html
+
 40323216 GIthub Page :http://python-40323216.rhcloud.com/static/blog/category/bg7.html
 
 40323216 Gitio gh-pages期末報告: https://ll22145683.github.io/2016springcd_bG7/static/blog/40323216xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html
@@ -12,9 +14,6 @@
 40323216 2D繪圖:http://623-40323216.rhcloud.com/bg7_40323216/hw_w16
 
 組別3D繪圖:https://cad.onshape.com/documents/d5039cf8952486856013b222/w/4b8155b292de951e3d89ace9/e/8094e1b8d5057262856b2969
-
-
-
 
 
 
